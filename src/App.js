@@ -15,6 +15,7 @@ function App() {
       {
         islogged && <p>This is very secret</p>
       }
+      <h4>Basic Redux Done</h4>
     </div>
   );
 }
